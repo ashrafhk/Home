@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sports</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_groups">Groups</string>
+    <string name="title_activity_schedule">Schedule</string>
+    <string name="title_activity_news">News</string>
+    <string name="home">Home</string>
+    <string name="News">News</string>
+
+    <string name="this_is_news_description">This is news description ...</string>
+    <string name="this_is_news_title">This is news title</string>
+</resources>
